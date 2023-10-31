@@ -22,7 +22,7 @@ async function enviarScript(scriptText){
     
     return lines.length;
 }
-
+//* Otimizado
 enviarScript(`
 SHREK
 

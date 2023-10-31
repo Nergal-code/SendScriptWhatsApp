@@ -17,3 +17,5 @@ No WhatsApp Web abra o console do Browser
 Pronto!
 
 Atualizado do conteudo original em: [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp)
+
+Update novo
